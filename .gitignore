@@ -1,0 +1,5 @@
+.idea
+FoodOrderingAppBackend.iml
+FoodOrderingApp-api/FoodOrderingApp-api.iml
+FoodOrderingApp-db/FoodOrderingApp-db.iml
+FoodOrderingApp-service/FoodOrderingApp-service.iml
